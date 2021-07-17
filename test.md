@@ -18,7 +18,8 @@ Then Marten's mind loops back around and latches onto the "one fusion operation"
 
 It is not the first time that this idea has been had, or even said out loud, and in fact it appears in print in a variety of highly obscure and currently overlooked locations, where even the original authors (those still alive) have forgotten ever entertaining it. Ideas are cheap, and not unique. The critical difference is this: Marten is the one who has it. Marten is a juvenile academic with limitless potential in front of him and all the resources in the university or even the world if he can prove that he is worth the grant.
 
-*
+<p>*</p>
+
 So with nothing to lose he writes it up. The world is involved in a race to the narrowest transistor imaginable, and once those possibilities are exhausted there's a good chance of jumping to memristors, then maybe optical computation (still a highly exciting and immature technology at the moment) and after that they will need go somewhere else. What is the smallest computer in the universe? How about a femtometre in diameter: atomic nucleus sized. You don't have to thank me.
 
 "You see," he explains at a pivotal lecture, "the effect would be almost entirely quantum-mechanical. The precise outcome of the interaction depends on the nature of the two input particles, even though the literal paths through space of the particles involved in the operation vary greatly and aren't even relevant to the outcome of the calculation. In effect, I have reduced the classic concept of the One Instruction Set Computer to a minimal atomic automaton capable of carrying out that one instruction. I confess there are pitfalls. Producing a single such minimal automaton represents a colossal engineering challenge, even with modern semi-nanotechnological manufacturing methods. In bulk, we are faced with an almost insuperable task. Even rendering a substrate of OISCs into usable, programmable computers is difficult enough on a conceptual level because of the impracticality of such computing models. We have problems of power input and power dissipation and the avoidance of interference between calculation atoms.
@@ -27,7 +28,8 @@ So with nothing to lose he writes it up. The world is involved in a race to the 
 
 Most of what Marten said that day was nonsensical, but not the parts he thought.
 
-*
+<p>*</p>
+
 Two weeks and two days later is a Sunday afternoon and two someones knock on his door. One is a plain-clothed police officer from the Computer Crime Branch. The other is from a branch whose name Marten instantly forgets, which deals broadly with lawbreaking in scientific research - ethical breaches, financial irregularities, touching upon the areas around chemical spills and other events affecting the general public.
 
 "I'm sorry, what department?"
@@ -62,7 +64,8 @@ That doesn't intimidate Marten, since his code is already online and public and 
 
 Officer Spiller squints up at the Sun for a moment, while Brown says, "Thanks for your cooperation. We'll be in touch."
 
-*
+<p>*</p>
+
 It's another inexplicable two weeks later.
 
 One of the great things about being semi-permanently attached to a sprawling and wealthy university is that Marten is only a friend of a friend of a really frightening number of insanely intelligent men and women with access to expensive, highly specialised hardware. There is a science department. Drop down from theoretical physics to physics and then move across and head up through astrophysics, then into the cosmology and astronomy departments, until you reach the people with direct downlink access to real solar probes that are in space looking at the Sun right now.
