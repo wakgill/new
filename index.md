@@ -4,6 +4,8 @@ layout: default
 
 # Rough Consensus and Maximal Interestingness
 
+by [Deryk Makgill](/)
+
 Software possesses an extremely strange property: it is possible to create high-value software products with effectively zero capital outlay. As Mozilla engineer Sam Penrose put it, software programming is labor that creates capital.
 
 This characteristic make software radically different from engineering materials like steel, and much closer to artistic media such as paint.1 As a consequence, engineer and engineering are somewhat inappropriate terms. It is something of a stretch to even think of software as a kind of engineering “material.” Though all computing requires a physical substrate, the trillions of tiny electrical charges within computer circuits, the physical embodiment of a running program, barely seem like matter.
