@@ -4,7 +4,7 @@ layout: default
 
 # Rough Consensus and Maximal Interestingness
 
-by [Deryk Makgill](/)
+by [Deryk Makgill](/) on 2/10/21
 
 Software possesses an extremely strange property: it is possible to create high-value software products with effectively zero capital outlay. As Mozilla engineer Sam Penrose put it, software programming is labor that creates capital.
 
